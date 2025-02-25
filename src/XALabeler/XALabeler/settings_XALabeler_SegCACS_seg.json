@@ -1,0 +1,15 @@
+{
+    "method": "xalabeler",
+    "fp_images": "/mnt/HHD/data/UNetAL/nnunet/nnUNet_raw/Dataset200_TCCT/imagesTr",
+    "fp_pseudo": "/mnt/SSD2/cloud_data/Projects/CTP/src/modules/XALabeler/XALabeler/data_manual/pseudo",
+    "fp_refine": "/mnt/SSD2/cloud_data/Projects/CTP/src/modules/XALabeler/XALabeler/data_manual/refine",
+    "fp_mask": "/mnt/SSD2/cloud_data/Projects/CTP/src/modules/XALabeler/XALabeler/data_manual/mask",
+    "fip_actionlist": "/mnt/SSD2/cloud_data/Projects/CTP/src/modules/XALabeler/XALabeler/data_manual/actionlist.json",
+    "fip_colors": "/mnt/SSD2/cloud_data/Projects/CTP/src/modules/XALabeler/XALabeler/data_manual/XALabelerLUT.ctbl",
+    "foregroundOpacity": 0.3,
+    "classification": false,
+    "classification_multislice": false,
+    "show_roi": true,
+    "fip_round_status": "",
+    "default_ignore": false
+}

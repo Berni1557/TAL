@@ -1,0 +1,15 @@
+{
+    "method": "xalabeler",
+    "fp_images": "/sc-projects/sc-proj-cc06-ag-dewey/data/UNetAL/nnunet/nnUNet_raw/Dataset404_LIVG2/imagesTr",
+    "fp_pseudo": "/sc-projects/sc-proj-cc06-ag-dewey/data/UNetAL/LIVG2/AL/USIMFT/USIMFT_V04/data_manual/pseudo",
+    "fp_refine": "/sc-projects/sc-proj-cc06-ag-dewey/data/UNetAL/LIVG2/AL/USIMFT/USIMFT_V04/data_manual/refine",
+    "fp_mask": "/sc-projects/sc-proj-cc06-ag-dewey/data/UNetAL/LIVG2/AL/USIMFT/USIMFT_V04/data_manual/mask",
+    "fip_actionlist": "/sc-projects/sc-proj-cc06-ag-dewey/data/UNetAL/LIVG2/AL/USIMFT/USIMFT_V04/data_manual/actionlist.json",
+    "fip_colors": "/sc-projects/sc-proj-cc06-ag-dewey/data/UNetAL/LIVG2/AL/USIMFT/USIMFT_V04/data_manual/XALabelerLUT.ctbl",
+    "foregroundOpacity": 0.3,
+    "classification": true,
+    "classification_multislice": true,
+    "show_roi": true,
+    "fip_round_status": "/sc-projects/sc-proj-cc06-ag-dewey/data/UNetAL/LIVG2/AL/USIMFT/USIMFT_V04/manager/round_status.json",
+    "default_ignore": false
+}

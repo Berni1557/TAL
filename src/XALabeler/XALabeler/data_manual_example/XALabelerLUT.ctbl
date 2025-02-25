@@ -1,0 +1,7 @@
+# Color
+0 background 0 0 0 255
+1 organ 255 0 0 255
+2 ignore 0 255 0 0
+3 positive 255 255 0 255
+4 negative 0 255 255 255
+5 pseudo 255 0 255 255

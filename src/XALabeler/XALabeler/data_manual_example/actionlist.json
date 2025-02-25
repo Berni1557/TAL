@@ -1,0 +1,6977 @@
+[
+    {
+        "id": 979,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0005_0000.nii.gz",
+        "pseudoname": "img0005.nii.gz",
+        "refinename": "img0005.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            41,
+            351,
+            211
+        ],
+        "bboxUbsOrg": [
+            97,
+            512,
+            371
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 993,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0005_0000.nii.gz",
+        "pseudoname": "img0005.nii.gz",
+        "refinename": "img0005.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            61,
+            70,
+            351
+        ],
+        "bboxUbsOrg": [
+            117,
+            231,
+            512
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 928,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0005_0000.nii.gz",
+        "pseudoname": "img0005.nii.gz",
+        "refinename": "img0005.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            20,
+            211,
+            0
+        ],
+        "bboxUbsOrg": [
+            76,
+            371,
+            161
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 989,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0005_0000.nii.gz",
+        "pseudoname": "img0005.nii.gz",
+        "refinename": "img0005.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            61,
+            70,
+            70
+        ],
+        "bboxUbsOrg": [
+            117,
+            231,
+            231
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 998,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0005_0000.nii.gz",
+        "pseudoname": "img0005.nii.gz",
+        "refinename": "img0005.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            61,
+            140,
+            281
+        ],
+        "bboxUbsOrg": [
+            117,
+            301,
+            442
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1095,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0028_0000.nii.gz",
+        "pseudoname": "img0028.nii.gz",
+        "refinename": "img0028.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            41,
+            0,
+            165
+        ],
+        "bboxUbsOrg": [
+            75,
+            183,
+            347
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1105,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0028_0000.nii.gz",
+        "pseudoname": "img0028.nii.gz",
+        "refinename": "img0028.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            41,
+            165,
+            165
+        ],
+        "bboxUbsOrg": [
+            75,
+            347,
+            347
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1098,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0028_0000.nii.gz",
+        "pseudoname": "img0028.nii.gz",
+        "refinename": "img0028.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            41,
+            82,
+            0
+        ],
+        "bboxUbsOrg": [
+            75,
+            264,
+            183
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1075,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0028_0000.nii.gz",
+        "pseudoname": "img0028.nii.gz",
+        "refinename": "img0028.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            28,
+            82,
+            165
+        ],
+        "bboxUbsOrg": [
+            61,
+            264,
+            347
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1094,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0028_0000.nii.gz",
+        "pseudoname": "img0028.nii.gz",
+        "refinename": "img0028.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            41,
+            0,
+            82
+        ],
+        "bboxUbsOrg": [
+            75,
+            183,
+            264
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1128,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0028_0000.nii.gz",
+        "pseudoname": "img0028.nii.gz",
+        "refinename": "img0028.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            55,
+            165,
+            0
+        ],
+        "bboxUbsOrg": [
+            89,
+            347,
+            183
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 3048,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0039_0000.nii.gz",
+        "pseudoname": "img0039.nii.gz",
+        "refinename": "img0039.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            28,
+            363,
+            217
+        ],
+        "bboxUbsOrg": [
+            62,
+            512,
+            366
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 3058,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0039_0000.nii.gz",
+        "pseudoname": "img0039.nii.gz",
+        "refinename": "img0039.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            42,
+            72,
+            72
+        ],
+        "bboxUbsOrg": [
+            76,
+            221,
+            221
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 3031,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0039_0000.nii.gz",
+        "pseudoname": "img0039.nii.gz",
+        "refinename": "img0039.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            28,
+            145,
+            290
+        ],
+        "bboxUbsOrg": [
+            62,
+            294,
+            439
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 3095,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0039_0000.nii.gz",
+        "pseudoname": "img0039.nii.gz",
+        "refinename": "img0039.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            56,
+            72,
+            145
+        ],
+        "bboxUbsOrg": [
+            90,
+            221,
+            294
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 414,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0027_0000.nii.gz",
+        "pseudoname": "img0027.nii.gz",
+        "refinename": "img0027.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            41,
+            324,
+            0
+        ],
+        "bboxUbsOrg": [
+            74,
+            512,
+            188
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2027,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0010_0000.nii.gz",
+        "pseudoname": "img0010.nii.gz",
+        "refinename": "img0010.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            92,
+            326,
+            163
+        ],
+        "bboxUbsOrg": [
+            148,
+            512,
+            349
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1966,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0010_0000.nii.gz",
+        "pseudoname": "img0010.nii.gz",
+        "refinename": "img0010.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            46,
+            163,
+            81
+        ],
+        "bboxUbsOrg": [
+            102,
+            349,
+            268
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1961,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0010_0000.nii.gz",
+        "pseudoname": "img0010.nii.gz",
+        "refinename": "img0010.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            46,
+            81,
+            81
+        ],
+        "bboxUbsOrg": [
+            102,
+            268,
+            268
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1970,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0010_0000.nii.gz",
+        "pseudoname": "img0010.nii.gz",
+        "refinename": "img0010.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            46,
+            244,
+            0
+        ],
+        "bboxUbsOrg": [
+            102,
+            431,
+            186
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2025,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0010_0000.nii.gz",
+        "pseudoname": "img0010.nii.gz",
+        "refinename": "img0010.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            92,
+            326,
+            0
+        ],
+        "bboxUbsOrg": [
+            148,
+            512,
+            186
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1976,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0010_0000.nii.gz",
+        "pseudoname": "img0010.nii.gz",
+        "refinename": "img0010.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            46,
+            326,
+            81
+        ],
+        "bboxUbsOrg": [
+            102,
+            512,
+            268
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1992,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0010_0000.nii.gz",
+        "pseudoname": "img0010.nii.gz",
+        "refinename": "img0010.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            69,
+            163,
+            163
+        ],
+        "bboxUbsOrg": [
+            125,
+            349,
+            349
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1960,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0010_0000.nii.gz",
+        "pseudoname": "img0010.nii.gz",
+        "refinename": "img0010.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            46,
+            81,
+            0
+        ],
+        "bboxUbsOrg": [
+            102,
+            268,
+            186
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1669,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0001_0000.nii.gz",
+        "pseudoname": "img0001.nii.gz",
+        "refinename": "img0001.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            91,
+            294,
+            98
+        ],
+        "bboxUbsOrg": [
+            147,
+            512,
+            315
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1647,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0001_0000.nii.gz",
+        "pseudoname": "img0001.nii.gz",
+        "refinename": "img0001.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            68,
+            98,
+            294
+        ],
+        "bboxUbsOrg": [
+            124,
+            315,
+            512
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2366,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0006_0000.nii.gz",
+        "pseudoname": "img0006.nii.gz",
+        "refinename": "img0006.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            50,
+            203,
+            203
+        ],
+        "bboxUbsOrg": [
+            106,
+            411,
+            411
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2364,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0006_0000.nii.gz",
+        "pseudoname": "img0006.nii.gz",
+        "refinename": "img0006.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            50,
+            203,
+            0
+        ],
+        "bboxUbsOrg": [
+            106,
+            411,
+            208
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1299,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0032_0000.nii.gz",
+        "pseudoname": "img0032.nii.gz",
+        "refinename": "img0032.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            66,
+            0,
+            79
+        ],
+        "bboxUbsOrg": [
+            122,
+            197,
+            275
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1245,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0032_0000.nii.gz",
+        "pseudoname": "img0032.nii.gz",
+        "refinename": "img0032.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            0,
+            315,
+            158
+        ],
+        "bboxUbsOrg": [
+            56,
+            512,
+            354
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1278,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0032_0000.nii.gz",
+        "pseudoname": "img0032.nii.gz",
+        "refinename": "img0032.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            44,
+            79,
+            0
+        ],
+        "bboxUbsOrg": [
+            100,
+            275,
+            197
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2069,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0040_0000.nii.gz",
+        "pseudoname": "img0040.nii.gz",
+        "refinename": "img0040.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            28,
+            157,
+            316
+        ],
+        "bboxUbsOrg": [
+            84,
+            353,
+            512
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2095,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0040_0000.nii.gz",
+        "pseudoname": "img0040.nii.gz",
+        "refinename": "img0040.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            56,
+            237,
+            0
+        ],
+        "bboxUbsOrg": [
+            112,
+            433,
+            196
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1733,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0025_0000.nii.gz",
+        "pseudoname": "img0025.nii.gz",
+        "refinename": "img0025.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            26,
+            168,
+            84
+        ],
+        "bboxUbsOrg": [
+            59,
+            343,
+            259
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1712,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0025_0000.nii.gz",
+        "pseudoname": "img0025.nii.gz",
+        "refinename": "img0025.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            13,
+            253,
+            0
+        ],
+        "bboxUbsOrg": [
+            47,
+            428,
+            175
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1793,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0025_0000.nii.gz",
+        "pseudoname": "img0025.nii.gz",
+        "refinename": "img0025.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            52,
+            337,
+            84
+        ],
+        "bboxUbsOrg": [
+            85,
+            512,
+            259
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1764,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0025_0000.nii.gz",
+        "pseudoname": "img0025.nii.gz",
+        "refinename": "img0025.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            38,
+            253,
+            168
+        ],
+        "bboxUbsOrg": [
+            72,
+            428,
+            343
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1757,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0025_0000.nii.gz",
+        "pseudoname": "img0025.nii.gz",
+        "refinename": "img0025.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            38,
+            168,
+            0
+        ],
+        "bboxUbsOrg": [
+            72,
+            343,
+            175
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1760,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0025_0000.nii.gz",
+        "pseudoname": "img0025.nii.gz",
+        "refinename": "img0025.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            38,
+            168,
+            253
+        ],
+        "bboxUbsOrg": [
+            72,
+            343,
+            428
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2896,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0038_0000.nii.gz",
+        "pseudoname": "img0038.nii.gz",
+        "refinename": "img0038.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            50,
+            290,
+            73
+        ],
+        "bboxUbsOrg": [
+            83,
+            439,
+            222
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2780,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0038_0000.nii.gz",
+        "pseudoname": "img0038.nii.gz",
+        "refinename": "img0038.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            0,
+            145,
+            363
+        ],
+        "bboxUbsOrg": [
+            34,
+            294,
+            512
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2773,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0038_0000.nii.gz",
+        "pseudoname": "img0038.nii.gz",
+        "refinename": "img0038.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            0,
+            73,
+            290
+        ],
+        "bboxUbsOrg": [
+            34,
+            222,
+            439
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2913,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0038_0000.nii.gz",
+        "pseudoname": "img0038.nii.gz",
+        "refinename": "img0038.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            67,
+            73,
+            0
+        ],
+        "bboxUbsOrg": [
+            100,
+            222,
+            149
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2794,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0038_0000.nii.gz",
+        "pseudoname": "img0038.nii.gz",
+        "refinename": "img0038.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            0,
+            363,
+            73
+        ],
+        "bboxUbsOrg": [
+            34,
+            512,
+            222
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2880,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0038_0000.nii.gz",
+        "pseudoname": "img0038.nii.gz",
+        "refinename": "img0038.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            50,
+            73,
+            218
+        ],
+        "bboxUbsOrg": [
+            83,
+            222,
+            367
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1458,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0035_0000.nii.gz",
+        "pseudoname": "img0035.nii.gz",
+        "refinename": "img0035.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            15,
+            71,
+            283
+        ],
+        "bboxUbsOrg": [
+            49,
+            229,
+            442
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 702,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0008_0000.nii.gz",
+        "pseudoname": "img0008.nii.gz",
+        "refinename": "img0008.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            92,
+            0,
+            234
+        ],
+        "bboxUbsOrg": [
+            148,
+            200,
+            434
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 695,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0008_0000.nii.gz",
+        "pseudoname": "img0008.nii.gz",
+        "refinename": "img0008.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            69,
+            312,
+            78
+        ],
+        "bboxUbsOrg": [
+            125,
+            512,
+            278
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 3354,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0003_0000.nii.gz",
+        "pseudoname": "img0003.nii.gz",
+        "refinename": "img0003.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            95,
+            70,
+            70
+        ],
+        "bboxUbsOrg": [
+            151,
+            232,
+            232
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 3319,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0003_0000.nii.gz",
+        "pseudoname": "img0003.nii.gz",
+        "refinename": "img0003.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            71,
+            70,
+            140
+        ],
+        "bboxUbsOrg": [
+            127,
+            232,
+            302
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 3220,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0003_0000.nii.gz",
+        "pseudoname": "img0003.nii.gz",
+        "refinename": "img0003.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            0,
+            140,
+            350
+        ],
+        "bboxUbsOrg": [
+            56,
+            302,
+            512
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 3391,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0003_0000.nii.gz",
+        "pseudoname": "img0003.nii.gz",
+        "refinename": "img0003.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            118,
+            70,
+            140
+        ],
+        "bboxUbsOrg": [
+            174,
+            232,
+            302
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 3454,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0003_0000.nii.gz",
+        "pseudoname": "img0003.nii.gz",
+        "refinename": "img0003.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "solved",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            142,
+            350,
+            350
+        ],
+        "bboxUbsOrg": [
+            198,
+            512,
+            512
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": true,
+            "annotated": false
+        }
+    },
+    {
+        "id": 835,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0036_0000.nii.gz",
+        "pseudoname": "img0036.nii.gz",
+        "refinename": "img0036.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            102,
+            158,
+            79
+        ],
+        "bboxUbsOrg": [
+            158,
+            353,
+            274
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 860,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0036_0000.nii.gz",
+        "pseudoname": "img0036.nii.gz",
+        "refinename": "img0036.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            128,
+            158,
+            79
+        ],
+        "bboxUbsOrg": [
+            184,
+            353,
+            274
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 844,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0036_0000.nii.gz",
+        "pseudoname": "img0036.nii.gz",
+        "refinename": "img0036.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            102,
+            317,
+            0
+        ],
+        "bboxUbsOrg": [
+            158,
+            512,
+            195
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 784,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0036_0000.nii.gz",
+        "pseudoname": "img0036.nii.gz",
+        "refinename": "img0036.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            51,
+            158,
+            0
+        ],
+        "bboxUbsOrg": [
+            107,
+            353,
+            195
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 867,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0036_0000.nii.gz",
+        "pseudoname": "img0036.nii.gz",
+        "refinename": "img0036.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            128,
+            238,
+            238
+        ],
+        "bboxUbsOrg": [
+            184,
+            433,
+            433
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2394,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0030_0000.nii.gz",
+        "pseudoname": "img0030.nii.gz",
+        "refinename": "img0030.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            0,
+            79,
+            79
+        ],
+        "bboxUbsOrg": [
+            56,
+            275,
+            275
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2469,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0030_0000.nii.gz",
+        "pseudoname": "img0030.nii.gz",
+        "refinename": "img0030.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            73,
+            79,
+            79
+        ],
+        "bboxUbsOrg": [
+            129,
+            275,
+            275
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2453,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0030_0000.nii.gz",
+        "pseudoname": "img0030.nii.gz",
+        "refinename": "img0030.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            48,
+            237,
+            0
+        ],
+        "bboxUbsOrg": [
+            104,
+            433,
+            196
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2478,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0030_0000.nii.gz",
+        "pseudoname": "img0030.nii.gz",
+        "refinename": "img0030.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            73,
+            237,
+            0
+        ],
+        "bboxUbsOrg": [
+            129,
+            433,
+            196
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2479,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0030_0000.nii.gz",
+        "pseudoname": "img0030.nii.gz",
+        "refinename": "img0030.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            73,
+            237,
+            79
+        ],
+        "bboxUbsOrg": [
+            129,
+            433,
+            275
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2504,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0030_0000.nii.gz",
+        "pseudoname": "img0030.nii.gz",
+        "refinename": "img0030.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            97,
+            237,
+            79
+        ],
+        "bboxUbsOrg": [
+            153,
+            433,
+            275
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2599,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0007_0000.nii.gz",
+        "pseudoname": "img0007.nii.gz",
+        "refinename": "img0007.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            80,
+            158,
+            79
+        ],
+        "bboxUbsOrg": [
+            136,
+            353,
+            274
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2572,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0007_0000.nii.gz",
+        "pseudoname": "img0007.nii.gz",
+        "refinename": "img0007.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            54,
+            79,
+            317
+        ],
+        "bboxUbsOrg": [
+            110,
+            274,
+            512
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2578,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0007_0000.nii.gz",
+        "pseudoname": "img0007.nii.gz",
+        "refinename": "img0007.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            54,
+            238,
+            0
+        ],
+        "bboxUbsOrg": [
+            110,
+            433,
+            195
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2585,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0007_0000.nii.gz",
+        "pseudoname": "img0007.nii.gz",
+        "refinename": "img0007.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            54,
+            317,
+            158
+        ],
+        "bboxUbsOrg": [
+            110,
+            512,
+            353
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 2583,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0007_0000.nii.gz",
+        "pseudoname": "img0007.nii.gz",
+        "refinename": "img0007.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            54,
+            317,
+            0
+        ],
+        "bboxUbsOrg": [
+            110,
+            512,
+            195
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1400,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0024_0000.nii.gz",
+        "pseudoname": "img0024.nii.gz",
+        "refinename": "img0024.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            68,
+            99,
+            0
+        ],
+        "bboxUbsOrg": [
+            124,
+            312,
+            212
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 459,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0031_0000.nii.gz",
+        "pseudoname": "img0031.nii.gz",
+        "refinename": "img0031.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            0,
+            253,
+            0
+        ],
+        "bboxUbsOrg": [
+            56,
+            427,
+            174
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 1222,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0021_0000.nii.gz",
+        "pseudoname": "img0021.nii.gz",
+        "refinename": "img0021.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            87,
+            299,
+            299
+        ],
+        "bboxUbsOrg": [
+            143,
+            512,
+            512
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 3676,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0002_0000.nii.gz",
+        "pseudoname": "img0002.nii.gz",
+        "refinename": "img0002.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            55,
+            310,
+            78
+        ],
+        "bboxUbsOrg": [
+            111,
+            512,
+            280
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 3566,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0033_0000.nii.gz",
+        "pseudoname": "img0033.nii.gz",
+        "refinename": "img0033.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            56,
+            167,
+            84
+        ],
+        "bboxUbsOrg": [
+            90,
+            345,
+            262
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    },
+    {
+        "id": 3597,
+        "idp": null,
+        "name": "action",
+        "imagename": "img0033_0000.nii.gz",
+        "pseudoname": "img0033.nii.gz",
+        "refinename": "img0033.nii.gz",
+        "maskname": null,
+        "imageext": null,
+        "pseudoext": null,
+        "refineext": null,
+        "maskext": null,
+        "fip_image": null,
+        "fip_pseudo": null,
+        "fip_refine": null,
+        "fip_mask": null,
+        "status": "open",
+        "command": null,
+        "slice": null,
+        "bboxLbsOrg": [
+            70,
+            249,
+            167
+        ],
+        "bboxUbsOrg": [
+            104,
+            428,
+            345
+        ],
+        "dim": 3,
+        "msg": null,
+        "label": [
+            [
+                0,
+                "background",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            [
+                1,
+                "organ",
+                [
+                    1,
+                    0,
+                    0
+                ]
+            ],
+            [
+                2,
+                "ignore",
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            [
+                3,
+                "positive",
+                [
+                    1,
+                    1,
+                    0
+                ]
+            ],
+            [
+                4,
+                "negative",
+                [
+                    0,
+                    1,
+                    1
+                ]
+            ],
+            [
+                5,
+                "pseudo",
+                [
+                    1,
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "info": {
+            "class": [],
+            "classified": false,
+            "annotated": false
+        }
+    }
+]
