@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 20 13:59:21 2024
-
-@author: bernifoellmer
-"""
 import os, sys
 from os.path import join
 import shutil

@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 20 14:33:30 2023
-
-@author: bernifoellmer
-"""
-
 import os, sys
 import shutil
 import numpy as np

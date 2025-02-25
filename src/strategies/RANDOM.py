@@ -1,9 +1,3 @@
-"""
-Created on Mon Mar 20 09:07:40 2023
-
-@author: bernifoellmer
-"""
-
 import sys
 import random
 from strategies.ALStrategy import ALStrategy

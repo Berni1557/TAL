@@ -57,12 +57,4 @@ python TAL.py --dataset=CTA18 --dataset_name_or_id=900 --strategy=USIMFT --func=
 ```
 
 ## Contributing
-Bernhard Föllmer\
-Charité - Universitätsmedizin Berlin\
-Klinik für Radiologie\
-Campus Charité Mitte (CCM)\
-Charitéplatz 1\
-10117 Berlin\
-E-Mail: bernhard.foellmer@charite.de\
-Tel: +49 30 450 527365\
-http://www.charite.de\
+Anonymized

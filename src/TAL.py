@@ -61,7 +61,7 @@ if __name__ == '__main__':
     opts.dataset_name_or_id=str(int(opts.dataset_name_or_id)+strategy_dict[opts.strategy])
     VersionUse = opts.versionUse
     
-    if hostname=='foellmer' and not opts.serverdata:
+    if hostname=='ANONYMIZED' and not opts.serverdata:
         opts_dict['dataset_data'] = os.path.join('/mnt/SSD2/cloud_data/Projects/CTP/src/modules', opts.dataset, 'data')
         opts_dict['fp_active'] = os.path.join('/mnt/HHD/data/UNetAL', opts.dataset, 'AL')
         opts_dict['fp_modules'] = '/mnt/SSD2/cloud_data/Projects/CTP/src/modules'
