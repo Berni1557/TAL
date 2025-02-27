@@ -540,7 +540,7 @@ class CTImage(object):
         arr = resize(arr, (r0, r1, r2), order=order, preserve_range=True).astype(dtype)
         self.image_sitk = sitk.GetImageFromArray(arr)
     
-    def showImageJ(self, ImageJPath='/home/bernifoellmer/bin/Fiji.app/ImageJ-linux64'):
+    def showImageJ(self, ImageJPath=''):
         """Show CT image in ImageJ
 
         Parameters
@@ -1201,36 +1201,6 @@ class CTRef():
         else:
             raise ValueError('Tranformation from ' + axis_in + + ' to ' + axis_out + ' does not exist.')
         return image
-        
-    # def setRefFormat(self, refFormat='num'):
-    #     if self.refFormat=='num' and refFormat=='bin':
-    #         arr = sitk.GetArrayFromImage(self.ref_sitk)
-    #         #arr_new = np.array(arr.shape[0], arr.max(), arr.shape[2], arr.shape[3])
-    #         arr_new = np.zeros((arr.shape[0], arr.max(), arr.shape[1], arr.shape[2]))
-    #         for i in range(arr_new.shape[1]):
-    #             arr_new[:,i,:,:] = arr==i
-    #         ref_sitk_new = sitk.GetImageFromArray(arr_new)
-    #         self.ref_sitk = ref_sitk_new
-    #         self.refFormat='bin'
-    #     elif self.refFormat=='bin' and refFormat=='num':
-    #         pass
-    
-    # def showSlice(self, slice=0, channel=0):
-    #     arr = self.ref()
-    #     plt.imshow(arr[slice, channel])
-        
-    # def showImageJ(self, ImageJPath='/home/bernifoellmer/bin/Fiji.app/ImageJ-linux64'):
-    #     # Create temporary folder and save image in tmp folder
-    #     folderpath_tmp = os.path.join(CConfig['srcpath'], 'tmp_show')
-    #     os.makedirs(folderpath_tmp, exist_ok=True)
-    #     filepath_tmp = os.path.join(folderpath_tmp, 'tmp.mhd')
-    #     self.save(filepath_tmp)
-    #     # Open ImageJ and image
-    #     command = ImageJPath + ' ' + filepath_tmp
-    #     os.system(command)
-    #     # Delete temporary folder
-    #     if os.path.exists(folderpath_tmp):
-    #         shutil.rmtree(folderpath_tmp)
 
     def copyInformationFrom(self, image):
         """Copy information

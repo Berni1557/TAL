@@ -2,14 +2,11 @@
 
 This repository contains code of the experiments conduced for the paper titled 'Guided Active Learning for Medical Image Segmentation' of the MICCAI 2025 conference.
 
-A new (user-friendly) version will be published soon.
+A new version will be available soon.
 
 ## Installation
 For dependencies please check environment.yml.
 The installation has been tested on Ubuntu 18.04.5 LTS.
-
-## Code for annotation with 3D SLicer extension
-The code for the 3D Slicer extension for Target-based Query Set Selection (phase 2) and Partial Annotation with Pseudo Label Correction (phase 4) can be found the src/XALabeler folder.
 
 ### Setting up using conda (some packages might not be optional)
 ```
@@ -40,9 +37,9 @@ conda install krb5==1.15.1 --no-deps -y
 Install nnUnet following the installation instructions [nnUNet](https://github.com/MIC-DKFZ/nnUNet).
 
 Ensure that the nnUnet path  [Setting up Paths](https://github.com/MIC-DKFZ/nnUNet/blob/master/documentation/setting_up_paths.md) are set to:
-* nnUNet_raw=code_root/data/nnunet/nnUNet_raw
-* nnUNet_preprocessed=code_root/data/nnunet/nnUNet_preprocessed
-* nnUNet_results=code_root/data/nnunet/nnUNet_results
+* nnUNet_raw=code_root/nnunet/data/nnunet/nnUNet_raw
+* nnUNet_preprocessed=code_root/nnunet/data/nnunet/nnUNet_preprocessed
+* nnUNet_results=code_root/nnunet/data/nnunet/nnUNet_results
 
 
 ## Dataset preparation
@@ -51,10 +48,21 @@ Please download imaging data for the Beyond the Cranial Vault (BTCV) Abdomen dat
 
 
 ## Run experiments
-### Run targeted active learning experiment
+### Run targeted active learning experiment by selecting a dataset, sampling strategy, fold, budget and a function to execute
 ```
 python TAL.py --dataset=CTA18 --dataset_name_or_id=900 --strategy=USIMFT --func=al --label_manual=True --targeted=True --segauto=False  --versionUse=-1
 ```
 
+## Evaluation
+After conduction active learning experiments, please check the output folder for trained nnUNet models and validation results.
+
 ## Contributing
-Anonymized
+Bernhard Föllmer\
+Charité - Universitätsmedizin Berlin\
+Klinik für Radiologie\
+Campus Charité Mitte (CCM)\
+Charitéplatz 1\
+10117 Berlin\
+E-Mail: bernhard.foellmer@charite.de\
+Tel: +49 30 450 527365\
+http://www.charite.de\

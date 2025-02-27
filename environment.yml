@@ -348,4 +348,4 @@ dependencies:
     - xgboost==2.0.3
     - yacs==0.1.8
     - yapf==0.40.2
-prefix: /home/bernifoellmer/anaconda3/envs/env_alunetX
+prefix: /home/XXX/anaconda3/envs/env_alunetX
